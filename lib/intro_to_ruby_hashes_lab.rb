@@ -6,7 +6,6 @@ def my_hash
   my_hash=Hash.new
   my_hash={
     :firstname => "Brian"
-    :lastname => "Cook"
   }
 end
 
